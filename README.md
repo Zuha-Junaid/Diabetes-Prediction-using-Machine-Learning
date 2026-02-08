@@ -36,9 +36,13 @@ Results and Evaluation
 The models were evaluated based on Accuracy, Precision, Recall, F1 Score, and Root Mean Square Error (RMSE).
 
 Model         Accuracy  Precision  Recall  F1 Score  RMSE
+
 Random Forest 0.84        0.82      0.86    0.84      0.39
+
 Decision Tree 0.80        0.78      0.81    0.79      0.46
+
 KNN           0.78        0.76      0.80    0.78      0.45
+
 
 Final Conclusion
 
